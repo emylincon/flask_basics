@@ -14,7 +14,7 @@ def index():
 
 @app.route('/multi/<int:num>', methods=['GET'])
 def get_multiply10(num):
-    return jsonify({'result': num*10})
+    return jsonify({'result': num*11})
 
 
 if __name__ == '__main__':
