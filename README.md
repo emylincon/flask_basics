@@ -1,6 +1,6 @@
 # Build an API using flask and Python
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/emylincon/flask_basics/Python-test?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/emylincon/flask_basics/python-test.yml?style=for-the-badge&branch=master)
 
 ![status](https://github.com/emylincon/flask_basics/workflows/Python-test/badge.svg)
 
