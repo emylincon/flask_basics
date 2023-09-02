@@ -32,7 +32,7 @@ jobs:
         python3 app_test.py
     - name: Echo branch
       env:
-        tag_name: "${{ 'success' == 'success' && 'good' || 'danger' }}"
+        tag_name: "${{ 'success1' == 'success' && 'good' || 'danger' }}"
       run: |
         echo ${{ env.tag_name }}
 
